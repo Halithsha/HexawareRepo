@@ -1,1 +1,11 @@
+
 Java program writing.
+
+My new Project
+public static void main(String[] args)
+{
+system.out.println("Haoibncaskjbc");
+String a="a";
+int b=2;
+}
+
