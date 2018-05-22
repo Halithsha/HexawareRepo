@@ -7,5 +7,9 @@ public static void main(String[] args)
 system.out.println("Haoibncaskjbc");
 String a="a";
 int b=2;
+int c=5;
+int d= b+c;
+System.out.println("Addition is D:::" + d);
+System.out.println("Mutilplication is M::"+ b*c)
 }
 
